@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="./vicks.gif"  style="width: 100%;"/>
+
 
 <!--
 **vicksEmmanuel/vicksEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./vicks.gif" />
+
+📫 How to reach me: [Meet-Victor](https://meet-victor.web.app/contact)
 
