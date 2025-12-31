@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: [Meet-Victor](https://meet-victor.web.app/contact)
+📫 How to reach me: [Meet-Victor](https://meet-victor.web.app)
 
